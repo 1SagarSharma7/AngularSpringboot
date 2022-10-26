@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "Viraj Patil",
+      "number": "1234567890"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
